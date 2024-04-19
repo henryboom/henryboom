@@ -1,7 +1,7 @@
 8- 🔭爱写bug的小邓程序员
 
-![](https://github-readme-stats.vercel.app/api?username=dengerpu&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dengerpu&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=henryboom&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=henryboom&layout=compact)
 
 
 
@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 -->
 
-<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dengerpu" /> </div>
-<div align="left"> <img src="https://profile-counter.glitch.me/dengerpu/count.svg" /> </div>
+<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=henryboom" /> </div>
+<div align="left"> <img src="https://profile-counter.glitch.me/henryboom/count.svg" /> </div>
 
 ### Blog
 
-[CSDN](https://blog.csdn.net/weixin_44196222)/ [个人博客官网](https://ieeep.cn/)
+ [知识积累博客](http://battle.wicp.io:8082)
 
 ### Technology Stack
 
@@ -68,6 +68,5 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=flat-square" alt="Photoshop" />
 
-
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dengerpu&theme=xcode" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=henryboom&theme=xcode" /> </div>
 
